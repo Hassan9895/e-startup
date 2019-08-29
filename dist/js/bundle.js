@@ -25637,7 +25637,7 @@ var data = [{
     footer_col_text_3: "Privacy Policy",
     copy_rights: "&copy; Copyrights eStartup. All rights reserved",
     design: "Designed by",
-    designer: "Shahab Ali"
+    designer: "Noor ul Hassan"
   }]
 
 }];
@@ -25685,7 +25685,7 @@ var Hero = function Hero(props) {
           _react2.default.createElement(
             "a",
             { href: "#" },
-            _react2.default.createElement("i", { className: "fa fa-apple fa-3x" }),
+            _react2.default.createElement("i", { className: "fab fa-apple fa-3x" }),
             " ",
             val.app_store
           ),
@@ -25699,7 +25699,7 @@ var Hero = function Hero(props) {
           _react2.default.createElement(
             "a",
             { href: "#" },
-            _react2.default.createElement("i", { className: "fa fa-windows fa-3x" }),
+            _react2.default.createElement("i", { className: "fab fa-windows fa-3x" }),
             " ",
             val.windows
           )
@@ -26257,7 +26257,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-facebook" })
+                      _react2.default.createElement("i", { className: "fab fa-facebook" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26266,7 +26266,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-twitter" })
+                      _react2.default.createElement("i", { className: "fab fa-twitter" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26275,7 +26275,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-linkedin" })
+                      _react2.default.createElement("i", { className: "fab fa-linkedin" })
                     )
                   )
                 ),
@@ -26317,7 +26317,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-facebook" })
+                      _react2.default.createElement("i", { className: "fab fa-facebook" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26326,7 +26326,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-twitter" })
+                      _react2.default.createElement("i", { className: "fab fa-twitter" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26335,7 +26335,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-linkedin" })
+                      _react2.default.createElement("i", { className: "fab fa-linkedin" })
                     )
                   )
                 ),
@@ -26375,7 +26375,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-facebook" })
+                      _react2.default.createElement("i", { className: "fab fa-facebook" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26384,7 +26384,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-twitter" })
+                      _react2.default.createElement("i", { className: "fab fa-twitter" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26393,7 +26393,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-linkedin" })
+                      _react2.default.createElement("i", { className: "fab fa-linkedin" })
                     )
                   )
                 ),
@@ -26433,7 +26433,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-facebook" })
+                      _react2.default.createElement("i", { className: "fab fa-facebook" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26442,7 +26442,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-twitter" })
+                      _react2.default.createElement("i", { className: "fab fa-twitter" })
                     )
                   ),
                   _react2.default.createElement(
@@ -26451,7 +26451,7 @@ var Team = function Team(props) {
                     _react2.default.createElement(
                       "a",
                       { href: "#" },
-                      _react2.default.createElement("i", { className: "fa fa-linkedin" })
+                      _react2.default.createElement("i", { className: "fab fa-linkedin" })
                     )
                   )
                 ),
@@ -26923,7 +26923,7 @@ var Email = function Email(props) {
               _react2.default.createElement(
                 "a",
                 { href: "#" },
-                _react2.default.createElement("i", { className: "fa fa-facebook" })
+                _react2.default.createElement("i", { className: "fab fa-facebook" })
               )
             ),
             _react2.default.createElement(
@@ -26932,7 +26932,7 @@ var Email = function Email(props) {
               _react2.default.createElement(
                 "a",
                 { href: "#" },
-                _react2.default.createElement("i", { className: "fa fa-twitter" })
+                _react2.default.createElement("i", { className: "fab fa-twitter" })
               )
             ),
             _react2.default.createElement(
@@ -26941,7 +26941,7 @@ var Email = function Email(props) {
               _react2.default.createElement(
                 "a",
                 { href: "#" },
-                _react2.default.createElement("i", { className: "fa fa-google-plus" })
+                _react2.default.createElement("i", { className: "fab fa-google-plus" })
               )
             ),
             _react2.default.createElement(
@@ -26950,7 +26950,7 @@ var Email = function Email(props) {
               _react2.default.createElement(
                 "a",
                 { href: "#" },
-                _react2.default.createElement("i", { className: "fa fa-linkedin" })
+                _react2.default.createElement("i", { className: "fab fa-linkedin" })
               )
             )
           )
@@ -27058,27 +27058,27 @@ var Contact = function Contact(props) {
               _react2.default.createElement(
                 "a",
                 { href: "#", className: "twitter" },
-                _react2.default.createElement("i", { className: "fa fa-twitter" })
+                _react2.default.createElement("i", { className: "fab fa-twitter" })
               ),
               _react2.default.createElement(
                 "a",
                 { href: "#", className: "facebook" },
-                _react2.default.createElement("i", { className: "fa fa-facebook" })
+                _react2.default.createElement("i", { className: "fab fa-facebook" })
               ),
               _react2.default.createElement(
                 "a",
                 { href: "#", className: "instagram" },
-                _react2.default.createElement("i", { className: "fa fa-instagram" })
+                _react2.default.createElement("i", { className: "fab fa-instagram" })
               ),
               _react2.default.createElement(
                 "a",
                 { href: "#", className: "google-plus" },
-                _react2.default.createElement("i", { className: "fa fa-google-plus" })
+                _react2.default.createElement("i", { className: "fab fa-google-plus" })
               ),
               _react2.default.createElement(
                 "a",
                 { href: "#", className: "linkedin" },
-                _react2.default.createElement("i", { className: "fa fa-linkedin" })
+                _react2.default.createElement("i", { className: "fab fa-linkedin" })
               )
             )
           ),
